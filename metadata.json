@@ -1,0 +1,8 @@
+{
+  "name": "DEC-IT-PRO-Network-Tools - W/ WIFI READER",
+  "description": "DECStudioAiCreation WIFI HITMAP v1.0.3 - WiFi signal strength and network infrastructure planning system with built-in live WiFi Signal Meter, dBm RSSI, Mbps speed measurement, Access Points, MDF, IDF, and LAN Cable route analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
